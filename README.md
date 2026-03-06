@@ -1,4 +1,4 @@
-# Mission Control Dashboard
+# OpenClaw Mission Control
 
 A central dashboard for monitoring services, stock alerts, and project status.
 
